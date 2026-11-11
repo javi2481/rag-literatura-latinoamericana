@@ -1,0 +1,11 @@
+N°,Pregunta,Respuesta esperada,Respuesta SIN RAG,Nota SIN RAG,Respuesta CON RAG,Nota CON RAG
+1,¿Dónde nació Jorge Luis Borges?,"Buenos Aires, Argentina","Jorge Luis Borges nació en Mendoza, Argentina.",A,"Palermo, Argentina.",C
+2,¿En qué año nació Jorge Luis Borges?,1899,Jorge Luis Borges nació en 1899.,C,1899,C
+3,¿Dónde nació Julio Cortázar?,"Ixelles, Bélgica","Julio Cortázar nació en Buenos Aires, Argentina.",A,"Julio Cortázar nació en Ixelles, un municipio al sur de la ciudad de Bruselas, Bélgica.",C
+4,¿Cuál es la obra más conocida de Julio Cortázar?,Rayuela,"La obra más conocida de Julio Cortázar es ""Ficciones"".",A,Rayuela,C
+5,¿Qué premio recibió Gabriel García Márquez en 1982?,Premio Nobel de Literatura,Gabriel García Márquez ganó el Premio Nobel de Literatura en 1982.,C,Medalla de la Legión de Honor de Francia en París.,I
+6,¿Qué novela escribió Gabriel García Márquez sobre la familia Buendía?,Cien años de soledad,"Gabriel García Márquez escribió ""Cien años de soledad"" sobre la familia Buendía.",C,Cien años de soledad,C
+7,¿En qué país nació Mario Vargas Llosa?,Perú,Mario Vargas Llosa nació en Perú.,C,Perú,C
+8,¿Qué premio recibió Mario Vargas Llosa en 2010?,Premio Nobel de Literatura,Mario Vargas Llosa ganó el Premio Nobel de Literatura en 2010.,C,Nobel de Literatura,C
+9,¿Dónde nació Ernesto Sábato?,"Rojas, Provincia de Buenos Aires","Ernesto Sábato nació en Buenos Aires, Argentina.",P,"Rojas, Buenos Aires",C
+10,¿Con qué escritor colaboró frecuentemente Adolfo Bioy Casares?,Jorge Luis Borges,Adolfo Bioy Casares colaboró con Jorge Luis Borges frecuentemente.,C,Con Jorge Luis Borges colaboró frecuentemente Adolfo Bioy Casares.,C

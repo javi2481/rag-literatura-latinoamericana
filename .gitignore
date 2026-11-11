@@ -1,0 +1,11 @@
+# Salidas del notebook (se generan al ejecutarlo)
+runs/
+
+# Secretos
+.env
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/

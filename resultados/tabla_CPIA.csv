@@ -1,0 +1,5 @@
+categoria,CON RAG (n),CON RAG (%),SIN RAG (n),SIN RAG (%)
+C — Correcta,9,90.0,6,60.0
+P — Parcial,0,0.0,1,10.0
+I — Incorrecta,1,10.0,0,0.0
+A — Alucinación,0,0.0,3,30.0

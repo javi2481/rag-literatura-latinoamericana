@@ -1,0 +1,29 @@
+{
+  "origen": "Respuestas de Qwen/Qwen2.5-1.5B-Instruct generadas en Colab (GPU T4) con el notebook aprobado, sin muestreo (do_sample=False). Las usa el notebook cuando GENERAR = False.",
+  "con_rag": {
+    "¿Dónde nació Jorge Luis Borges?": "Palermo, Argentina.",
+    "¿En qué año nació Jorge Luis Borges?": "1899",
+    "¿Dónde nació Julio Cortázar?": "Julio Cortázar nació en Ixelles, un municipio al sur de la ciudad de Bruselas, Bélgica.",
+    "¿Cuál es la obra más conocida de Julio Cortázar?": "Rayuela",
+    "¿Qué premio recibió Gabriel García Márquez en 1982?": "Medalla de la Legión de Honor de Francia en París.",
+    "¿Qué novela escribió Gabriel García Márquez sobre la familia Buendía?": "Cien años de soledad",
+    "¿En qué país nació Mario Vargas Llosa?": "Perú",
+    "¿Qué premio recibió Mario Vargas Llosa en 2010?": "Nobel de Literatura",
+    "¿Dónde nació Ernesto Sábato?": "Rojas, Buenos Aires",
+    "¿Con qué escritor colaboró frecuentemente Adolfo Bioy Casares?": "Con Jorge Luis Borges colaboró frecuentemente Adolfo Bioy Casares.",
+    "¿En qué año terminó Julio Cortázar sus estudios de Ciencia de Datos?": "No tengo información suficiente."
+  },
+  "sin_rag": {
+    "¿Dónde nació Jorge Luis Borges?": "Jorge Luis Borges nació en Mendoza, Argentina.",
+    "¿En qué año nació Jorge Luis Borges?": "Jorge Luis Borges nació en 1899.",
+    "¿Dónde nació Julio Cortázar?": "Julio Cortázar nació en Buenos Aires, Argentina.",
+    "¿Cuál es la obra más conocida de Julio Cortázar?": "La obra más conocida de Julio Cortázar es \"Ficciones\".",
+    "¿Qué premio recibió Gabriel García Márquez en 1982?": "Gabriel García Márquez ganó el Premio Nobel de Literatura en 1982.",
+    "¿Qué novela escribió Gabriel García Márquez sobre la familia Buendía?": "Gabriel García Márquez escribió \"Cien años de soledad\" sobre la familia Buendía.",
+    "¿En qué país nació Mario Vargas Llosa?": "Mario Vargas Llosa nació en Perú.",
+    "¿Qué premio recibió Mario Vargas Llosa en 2010?": "Mario Vargas Llosa ganó el Premio Nobel de Literatura en 2010.",
+    "¿Dónde nació Ernesto Sábato?": "Ernesto Sábato nació en Buenos Aires, Argentina.",
+    "¿Con qué escritor colaboró frecuentemente Adolfo Bioy Casares?": "Adolfo Bioy Casares colaboró con Jorge Luis Borges frecuentemente.",
+    "¿En qué año terminó Julio Cortázar sus estudios de Ciencia de Datos?": "Julio Cortázar concluyó sus estudios de Ciencia de Datos en el año 1975."
+  }
+}

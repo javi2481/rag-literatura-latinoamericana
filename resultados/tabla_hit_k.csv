@@ -1,0 +1,5 @@
+configuracion,hit@1,hit@3,hit@5,precisión@5
+A — Fixed-size,0.9,1.0,1.0,0.76
+A + título,0.9,1.0,1.0,0.96
+B — Paragraph-aware,0.8,1.0,1.0,0.58
+B + título,1.0,1.0,1.0,0.88

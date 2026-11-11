@@ -1,0 +1,9 @@
+# Versiones con las que se probó el notebook (Python 3.12)
+sentence-transformers==6.3.0
+faiss-cpu==1.16.0
+transformers==5.22.2
+accelerate
+torch
+wikipedia
+pandas
+matplotlib
