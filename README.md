@@ -341,7 +341,7 @@ flowchart TD
 | Modo | Cómo se activa | Tiempo aproximado | Resultado |
 |---|---|---|---|
 | Respuestas guardadas | `GENERAR = False` (por defecto) | ≈ 4 min en CPU, incluida la descarga del modelo de embeddings (1,1 GB) | Los mismos números de la entrega |
-| Generar de nuevo | `GENERAR = True` en la celda de preparación | Unos minutos con GPU T4, más la descarga del LLM (3,1 GB) | Las mismas respuestas: se generan sin muestreo |
+| Generar de nuevo | `GENERAR = True` en la celda de preparación | Necesita GPU (en Colab, T4), más la descarga del LLM (3,1 GB) | Las mismas respuestas: se generan sin muestreo |
 
 Las dos banderas viven en el notebook: `GENERAR` en la celda de preparación y `USAR_COPIA_GUARDADA` en la sección 4. El buscador, los índices y `hit@k` **se calculan siempre**: lo único que se puede saltear es la generación del LLM.
 
